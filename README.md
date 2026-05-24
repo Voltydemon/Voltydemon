@@ -24,7 +24,7 @@ I-am-Voltydemon@github
 🌟 Main languages: Python and soon javascript
 🚩 Interested in technology
 💖 Not on a relationship
-🎵 Love anymusic I found
+🎵 Love any music I found
 ```
 <hr>
 
