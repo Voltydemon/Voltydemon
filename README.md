@@ -10,7 +10,7 @@ Hi, I'm Volty!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/Voltydemon/volty/blob/main/EDIT_20260526_152849%5B1%5D.png" alt="Is just a pic :)" width="320" />
+<img align="left" src="https://github.com/Voltydemon/volty/blob/main/Untitled179_20260419040117%5B1%5D.png" alt="Is just a pic :)" width="320" />
 <hr>
 
 ```
